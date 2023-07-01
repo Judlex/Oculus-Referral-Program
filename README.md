@@ -3,7 +3,7 @@ This is my list of my referral links, by using them you get oculus games 25% off
 ### The list goes from A-Z
 # A
 # B
-**bonelab** https://www.oculus.com/appreferrals/Judlex/4215734068529064/?utm_source=2
+[**bonelab**](https://www.oculus.com/appreferrals/Judlex/4215734068529064/?utm_source=2)
 # C
 # D
 # E
