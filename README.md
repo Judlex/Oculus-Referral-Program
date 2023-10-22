@@ -1,8 +1,6 @@
 # Games 25% off with official oculus referral links 
 This is my list of my referral links, by using them you get oculus games 25% off and i get 5$ that i can use for giveways. If you want I can share yours too reddit u/Judlex15 
-
-[**device referral**](https://www.meta.com/referrals/link/Judlex)
-
+If you have a new oculus use the [**device referral**](https://www.meta.com/referrals/link/Judlex) so you get 30$ store credit and I do too!
 ### The list goes from A-Z
 # A
 # B
