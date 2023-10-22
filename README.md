@@ -5,13 +5,14 @@ If you have a new oculus use the [**device referral**](https://www.meta.com/refe
 ### The list goes from A-Z
 # A
 # B
-[**bonelab**](https://www.oculus.com/appreferrals/Judlex/4215734068529064/?utm_source=2)
+[**Bonelab**](https://www.oculus.com/appreferrals/Judlex/4215734068529064/?utm_source=2)
+[**Blade & Sorcery: Nomad**](https://www.oculus.com/appreferrals/Judlex/2031826350263349/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 # C
 # D
 # E
 # F
 # G
-[**guardians frontline**](https://www.oculus.com/appreferrals/Judlex/5380153758692064/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
+[**Guardians Frontline**](https://www.oculus.com/appreferrals/Judlex/5380153758692064/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 # H
 # I
 # J
@@ -21,7 +22,7 @@ If you have a new oculus use the [**device referral**](https://www.meta.com/refe
 # N
 # O
 # P
-[**pistol whip**](https://www.oculus.com/appreferrals/Judlex/2104963472963790/?utm_location=2&utm_parent=frl)
+[**Pistol Whip**](https://www.oculus.com/appreferrals/Judlex/2104963472963790/?utm_location=2&utm_parent=frl)
 # Q
 # R
 # S
