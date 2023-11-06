@@ -32,7 +32,7 @@ If you have a new oculus use the [**device referral**](https://www.meta.com/refe
 # U
 # V
 # W
-[**Walkabout Mini Golf**](https://www.oculus.com/appreferrals/Judlex/5380153758692064/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
+[**Walkabout Mini Golf**](https://www.oculus.com/appreferrals/Judlex/2462678267173943/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 # X
 # Y
 # Z
