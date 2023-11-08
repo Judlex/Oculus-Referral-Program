@@ -25,6 +25,8 @@ If you have a new oculus use the [**device referral**](https://www.meta.com/refe
 # O
 # P
 [**Pistol Whip**](https://www.oculus.com/appreferrals/Judlex/2104963472963790/?utm_location=2&utm_parent=frl)
+
+[**Puzzling Places**](https://www.oculus.com/appreferrals/Judlex/3931148300302917/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral)
 # Q
 # R
 # S
