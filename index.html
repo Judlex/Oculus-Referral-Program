@@ -191,13 +191,18 @@
             overflow: hidden;
             transition: transform 0.3s;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-            display: flex;
-            flex-direction: column;
         }
         
         .game-card:hover {
             transform: translateY(-10px);
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        .game-card a {
+            display: block;
+            text-decoration: none;
+            color: #333;
+            height: 100%;
         }
         
         .game-image {
@@ -207,16 +212,12 @@
             border-bottom: 1px solid #eee;
         }
         
-        .game-card a {
-            display: block;
+        .game-title {
             padding: 15px;
-            text-decoration: none;
-            color: #333;
             font-weight: bold;
             font-size: 1.1rem;
             text-align: center;
             border-top: 4px solid #4267B2;
-            flex-grow: 1;
         }
         
         .empty-section {
@@ -276,7 +277,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Games 25% off with Oculus Referral Links</h1>
+            <h1>Games 25% off with Official Oculus Referral Links</h1>
         </header>
         
         <div class="intro">
@@ -333,8 +334,10 @@
                 <h2 class="section-title">A</h2>
                 <div class="games-list">
                     <div class="game-card" data-title="Assassin's Creed Nexus VR">
-                        <img src="/api/placeholder/300/180" alt="Assassin's Creed Nexus VR" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/reflink.quest/5812519008825194/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral/&utm_content=copy" target="_blank">Assassin's Creed® Nexus VR</a>
+                        <a href="https://www.oculus.com/appreferrals/reflink.quest/5812519008825194/?utm_source=oculus&utm_location=4&utm_parent=frl&utm_medium=app_referral/&utm_content=copy" target="_blank">
+                            <img src="/api/placeholder/300/180" alt="Assassin's Creed Nexus VR" class="game-image">
+                            <div class="game-title">Assassin's Creed® Nexus VR</div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -344,12 +347,16 @@
                 <h2 class="section-title">B</h2>
                 <div class="games-list">
                     <div class="game-card" data-title="Bonelab">
-                        <img src="/api/placeholder/300/180" alt="Bonelab" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/Judlex/4215734068529064/?utm_source=2" target="_blank">Bonelab</a>
+                        <a href="https://www.oculus.com/appreferrals/Judlex/4215734068529064/?utm_source=2" target="_blank">
+                            <img src="/api/placeholder/300/180" alt="Bonelab" class="game-image">
+                            <div class="game-title">Bonelab</div>
+                        </a>
                     </div>
                     <div class="game-card" data-title="Blade & Sorcery: Nomad">
-                        <img src="https://scontent-waw2-1.oculuscdn.com/v/t64.5771-25/38982517_1098065365260667_4536606445472351391_n.jpg?stp=dst-jpg_q92_s750x750_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=9qZQN9dL8O8Q7kNvgH0eiab&_nc_oc=AdiCVb59o6BCTUGxD0x_3wjEQlyeQHFpQOLhRITcTOTbJZMNbiUy7k0-ujdLdocbmT8&_nc_zt=3&_nc_ht=scontent-waw2-1.oculuscdn.com&oh=00_AYBbBiFvMx0GBTkO34yli3ucC4AtXLlOcx_WF1CS2NgioQ&oe=67CA5547" alt="Blade & Sorcery: Nomad" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/Judlex/2031826350263349/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">Blade & Sorcery: Nomad</a>
+                        <a href="https://www.oculus.com/appreferrals/Judlex/2031826350263349/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">
+                            <img src="https://scontent-waw2-1.oculuscdn.com/v/t64.5771-25/38982517_1098065365260667_4536606445472351391_n.jpg?stp=dst-jpg_q92_s750x750_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=9qZQN9dL8O8Q7kNvgH0eiab&_nc_oc=AdiCVb59o6BCTUGxD0x_3wjEQlyeQHFpQOLhRITcTOTbJZMNbiUy7k0-ujdLdocbmT8&_nc_zt=3&_nc_ht=scontent-waw2-1.oculuscdn.com&oh=00_AYBbBiFvMx0GBTkO34yli3ucC4AtXLlOcx_WF1CS2NgioQ&oe=67CA5547" alt="Blade & Sorcery: Nomad" class="game-image">
+                            <div class="game-title">Blade & Sorcery: Nomad</div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -383,8 +390,10 @@
                 <h2 class="section-title">G</h2>
                 <div class="games-list">
                     <div class="game-card" data-title="Guardians Frontline">
-                        <img src="/api/placeholder/300/180" alt="Guardians Frontline" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/Judlex/5380153758692064/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">Guardians Frontline</a>
+                        <a href="https://www.oculus.com/appreferrals/Judlex/5380153758692064/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">
+                            <img src="/api/placeholder/300/180" alt="Guardians Frontline" class="game-image">
+                            <div class="game-title">Guardians Frontline</div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -435,12 +444,16 @@
                 <h2 class="section-title">P</h2>
                 <div class="games-list">
                     <div class="game-card" data-title="Pistol Whip">
-                        <img src="/api/placeholder/300/180" alt="Pistol Whip" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/Judlex/2104963472963790/?utm_location=2&utm_parent=frl" target="_blank">Pistol Whip</a>
+                        <a href="https://www.oculus.com/appreferrals/Judlex/2104963472963790/?utm_location=2&utm_parent=frl" target="_blank">
+                            <img src="/api/placeholder/300/180" alt="Pistol Whip" class="game-image">
+                            <div class="game-title">Pistol Whip</div>
+                        </a>
                     </div>
                     <div class="game-card" data-title="Puzzling Places">
-                        <img src="/api/placeholder/300/180" alt="Puzzling Places" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/Judlex/3931148300302917/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">Puzzling Places</a>
+                        <a href="https://www.oculus.com/appreferrals/Judlex/3931148300302917/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">
+                            <img src="/api/placeholder/300/180" alt="Puzzling Places" class="game-image">
+                            <div class="game-title">Puzzling Places</div>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -481,8 +494,10 @@
                 <h2 class="section-title">W</h2>
                 <div class="games-list">
                     <div class="game-card" data-title="Walkabout Mini Golf">
-                        <img src="/api/placeholder/300/180" alt="Walkabout Mini Golf" class="game-image">
-                        <a href="https://www.oculus.com/appreferrals/Judlex/2462678267173943/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">Walkabout Mini Golf</a>
+                        <a href="https://www.oculus.com/appreferrals/Judlex/2462678267173943/?utm_source=oculus&utm_location=2&utm_parent=frl&utm_medium=app_referral" target="_blank">
+                            <img src="/api/placeholder/300/180" alt="Walkabout Mini Golf" class="game-image">
+                            <div class="game-title">Walkabout Mini Golf</div>
+                        </a>
                     </div>
                 </div>
             </div>
